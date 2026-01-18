@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi, I am Vorak Tong 👋</h1>
+
+<p align="center">
+  I am a third-year student at Cambodia Academy of Digital Technology (CADT)<br/>
+</p>
 
 <!--
 **Vorak-Tong/Vorak-Tong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
