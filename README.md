@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tong Vorak 👋</h1>
 
 <p align="center">
-  Web Developer • Computer Science Student<br/>
+  Computer Science Student<br/>
   Cambodia Academy of Digital Technology (CADT)
 </p>
 
